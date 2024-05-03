@@ -1,0 +1,7 @@
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\bin\Debug\Guess-number-game.exe.config
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\bin\Debug\Guess-number-game.exe
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\bin\Debug\Guess-number-game.pdb
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\obj\Debug\Guess-number-game.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\obj\Debug\Guess-number-game.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\obj\Debug\Guess-number-game.exe
+C:\Users\Andrey\Desktop\Guess-number-game\Guess-number-game\obj\Debug\Guess-number-game.pdb
